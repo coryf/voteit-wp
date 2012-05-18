@@ -25,6 +25,8 @@
     <input type="button" id="insert" name="insert" value="{#insert}" onclick="VoteItDialog.insert();" />
     <input type="button" id="cancel" name="cancel" value="{#cancel}" onclick="tinyMCEPopup.close();" />
   </div>
+
+  <p><a href="https://www.voteit.com/decisions/new" target="_blank">Click here</a> to create a new vote.</p>
 </form>
 
 </body>
