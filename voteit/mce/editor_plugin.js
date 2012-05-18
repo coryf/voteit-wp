@@ -6,7 +6,7 @@
           title: "Hello",
           file: url + "/dialog.php",
           width: 320,
-          height: 120, 
+          height: 124, 
           inline: 1
         });
       });
