@@ -1,12 +1,29 @@
-VoteIt Wordpress Plugin
-=========
+=== Plugin Name ===
+Contributors: joelvoteit
+Tags: voteit, collaboration, vote, decision
+Requires at least: 2.0.2
+Tested up to: 3.3.2
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add a button to your Wordpress editor for easy embedding of [VoteIt](http://www.voteit.com) content.
+VoteIt is an online collaboration tool for making the decision-making process easy and fun.
 
-# License
+== Description ==
 
-This code is licensed under the [GNU General Public License, version 2](http://www.gnu.org/licenses/gpl-2.0.html) or later.
+This plugin adds a button to your Wordpress editor that allows you to easily embed your votes from [VoteIt](http://www.voteit.com/) and engage your readers.
 
-# Installation
+== Installation ==
 
-Simply copy the ```voteit``` directory to your Wordpress install's ```wp-content/plugins``` directory. Then enable it in the Plugins settings of Wordpress.
+Simply add the `voteit` directory to `wp-content/plugins`.
+
+== Screenshots ==
+
+1. The VoteIt toolbar button
+2. The input dialog for specifying the VoteIt vote to add
+3. The widget that it will add
+
+== Changelog ==
+
+= 1.0 =
+* Initial release.
