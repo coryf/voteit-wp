@@ -25,5 +25,13 @@ Simply add the `voteit` directory to `wp-content/plugins`.
 
 == Changelog ==
 
+= 1.0.1 =
+* Bugfix for IE frameBorder display issue
+
 = 1.0 =
 * Initial release.
+
+== Upgrade Notice ==
+
+= 1.0.1 =
+This version removes the frame border that shows up in Internet Explorer.
